@@ -24,4 +24,3 @@ async function scrapeProduct(url) {
 
 }
 scrapeProduct("https://www.goodreads.com/book/show/26828169-the-neapolitan-novels");
-scrapeProduct("https://www.goodreads.com/book/show/26828169-the-neapolitan-novels");
