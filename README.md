@@ -1,4 +1,4 @@
-# Web scraper with Puppeteer - Node library
+## Web scraper with Puppeteer - Node library
 
 Run:
 
